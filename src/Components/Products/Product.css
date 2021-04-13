@@ -1,0 +1,13 @@
+.img{
+    width: 80%;
+    padding-left: 15%;
+}
+.footer{
+    background-color: white !important;
+    border: none !important;
+}
+.card{
+    box-shadow: 5px 5px 15px rgb(63, 63, 129);
+    border-radius: 10px;
+    
+}

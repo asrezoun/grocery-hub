@@ -1,0 +1,36 @@
+.error{
+    color: red;
+}
+
+.form{
+    width: 65%;
+    background-color: azure;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px grey;
+}
+.form input{
+   margin-bottom: 5px;
+}
+.leftBlock{
+    background-color: azure;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px grey;
+    
+}
+.manage{
+    padding: 5px;
+    color: black;
+
+}
+.manage:hover{
+    background-color:blue;
+    padding: 10px;
+    font-weight: bold;
+    color: white;
+    border-radius: 5px;
+}
+.routeList{
+    padding: 10px;
+    
+}
