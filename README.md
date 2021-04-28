@@ -1,5 +1,8 @@
 # GROCERY HUB
 
+### [Live site](https://grocery-hub-2cc75.web.app/)
+### [Server side Code Link](https://github.com/asrezoun/grocery-hub-server)
+
 ## A fullstack website
 
 ## used technologies: React js, React Router, context api, firebase, material ui, express js, mongodb 
@@ -16,6 +19,6 @@
 ### log in log out options
 ### context api practice
 
-### [Live site](https://grocery-hub-2cc75.web.app/)
+
 
 ### server side code is available in another repository
