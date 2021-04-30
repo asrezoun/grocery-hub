@@ -19,6 +19,7 @@
 ### log in log out options
 ### context api practice
 
-
-
 ### server side code is available in another repository
+### To run in local computer => 
+### 1. npm run install
+### 2. npm start
